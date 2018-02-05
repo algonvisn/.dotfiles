@@ -1,0 +1,23 @@
+[[plugins]]
+repo = 'itchyny/lightline.vim'
+
+[[plugins]]
+repo = 'nanotech/jellybeans.vim'
+
+[[plugins]]
+repo = 'cocopon/iceberg.vim'
+
+[[plugins]]
+repo = 'arcticicestudio/nord-vim'
+
+[[plugins]]
+repo = 'tyrannicaltoucan/vim-deep-space'
+
+[[plugins]]
+repo = 'KeitaNakamura/neodark.vim'
+
+[[plugins]]
+repo = 'tyrannicaltoucan/vim-quantum'
+
+[[plugins]]
+repo = 'djjcast/mirodark'
